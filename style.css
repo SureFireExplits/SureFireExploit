@@ -1,0 +1,176 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #202020;
+    scroll-behavior: smooth;
+}
+
+header{
+    font-family: Montsterra;
+    font-size: 16px;
+    line-height: 16px;
+    text-decoration: none solid rgb(0,0,0);
+    text-align: center;
+    word-spacing: 10px;
+    background-color: #141414;
+    background-position: 0% 0%;
+    color: white;
+    height: 44px;
+    width: 1856px;
+    padding: 13px 32px 13px 32px;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: 0px;
+}
+
+a{
+    text-decoration: none solid rgb(0, 0, 0);
+    color: white;
+    font-family: system-ui;
+    font-size: 22.4px;
+    float: none;
+}
+
+.Downloadheadertop{
+    background-color: #DD5300;
+    border: none;
+    color: white;
+    width: 98.1719px;
+    height: 34.7812px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Summery1{
+    color: #DD5300;
+    font-family: system-ui;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 48px;
+    float: none;
+    margin-left: 120px;
+}
+
+.Summery2{
+    color: white;
+    font-family: system-ui;
+    font-size: 28px;
+    font-weight: 400;
+    text-align: left;
+    float: none;
+    margin-left: 120px; 
+}
+
+.downfree{
+    background-color: #DD5300;
+    border: none;
+    color: white;
+    width: 170px;
+    height: 34.7812px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.readfaq{
+    background-color: #DD5300;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 34.7812px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+img{
+    font-family: system-ui;
+    font-size: 16px;
+    line-height: 16px;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: left;
+    word-spacing: 0px;
+    background-color: transparent;
+    background-position: 0% 0%;
+    color: #000000;
+    height: 366.141px;
+    width: 633.188px;
+    min-width: auto;
+    min-height: auto;
+    z-index: 2;
+}
+
+.iconsite{
+    height: 36px;
+    width: 36px;
+}
+
+.img1{
+    border-radius: 5px;
+    margin-left: 650px;
+    box-shadow: #DD5300;
+}
+
+.Summery3{
+    color: #DD5300;
+    font-family: system-ui;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 48px;
+    float: none;
+    margin-left: 120px;
+}
+
+.Summery4{
+    font-family: system-ui;
+    font-size: 20px;
+    color: white;
+    margin-left: 120px;
+}
+
+.Summery5{
+    font-family: system-ui;
+    font-size: 28px;
+    font-weight: 400;
+    color: white;
+    margin-left: 120px;
+}
+
+.downloadtwo{
+    height: 285px;
+    width: 500px;
+    background-color: #141414;
+    border-radius: 5px;
+    margin-left: 700px;
+}
+
+.Donwloadtwo{
+    font-family: system-ui;
+    color: #DD5300;
+    font-size: 36px;
+    font-weight: 400;
+    margin-left: 100px;
+}
+
+.Donwloadtt{
+    background-color: #DD5300;
+    border: none;
+    color: white;
+    width: 98.1719px;
+    height: 34.7812px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 199px;
+}
